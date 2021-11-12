@@ -1,2 +1,2 @@
 # Git-study
-git study 정리
+git study Wiki 정리
