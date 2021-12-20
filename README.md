@@ -14,5 +14,6 @@ git study Wiki 정리
 [8장. 병합과 충돌](https://github.com/jsh9057/Git-study/wiki/8%EC%9E%A5.-%EB%B3%91%ED%95%A9%EA%B3%BC-%EC%B6%A9%EB%8F%8C)  
 [9장. 복귀](https://github.com/jsh9057/Git-study/wiki/9%EC%9E%A5.-%EB%B3%B5%EA%B7%80)  
 [10장. 배포 관리와 태그](https://github.com/jsh9057/Git-study/wiki/10%EC%9E%A5.-%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A6%AC%EC%99%80-%ED%83%9C%EA%B7%B8)  
+[11장. 서브모듈](https://github.com/jsh9057/Git-study/wiki/11%EC%9E%A5.-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88)  
 
 [노션으로 보기](https://wool-suit-475.notion.site/Git-e77ba62603fb4028b964aaf281000b78)
